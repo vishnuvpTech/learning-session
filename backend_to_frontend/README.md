@@ -38,15 +38,6 @@ This isn't a generic "learn React" tutorial. It's specifically designed for expe
 - ✅ Are familiar with testing and debugging
 - ✅ Want practical, project-based learning
 
-### What You'll Build
-
-By the end of this roadmap, you will have:
-- **5+ practical projects** connected to real backend APIs
-- **Production-ready React applications** deployed to the web
-- **Full-stack skills** to build complete applications independently
-- **Portfolio** showcasing your frontend capabilities
-- **Confidence** to join frontend discussions and code reviews
-
 ---
 
 <a name="learning-strategy"></a>
