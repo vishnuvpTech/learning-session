@@ -1,4 +1,4 @@
-# Backend-to-Frontend Learning Roadmap
+# Full-Stack Development Learning Roadmap
 ## Complete Guide for Backend Teams Transitioning to Full-Stack Development
 
 **Version:** 1.0  
@@ -12,7 +12,7 @@
 
 1. [Introduction](#introduction)
 2. [Learning Strategy for Backend Developers](#learning-strategy)
-3. [6-Month Roadmap Overview](#roadmap-overview)
+3. [Roadmap Overview](#roadmap-overview)
 4. [Phase 1: Web Fundamentals ](#phase-1)
 5. [Phase 2: React Fundamentals ](#phase-2)
 6. [Phase 3: State Management & API Integration ](#phase-3)
