@@ -1,4 +1,4 @@
-# Backend-to-Frontend Learning Roadmap
+# Full-Stack Development Learning Roadmap
 ## Complete Guide for Backend Teams Transitioning to Full-Stack Development
 
 **Version:** 1.0  
