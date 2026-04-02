@@ -1,3 +1,8 @@
+## 📂 Python Learning Files
+[Basics](BASICS.md) | [Advanced](ADVANCED.md) | [SQL](SQL.md) | [**Senior Dev Guide**](README.md)
+
+---
+
 # Senior Python Backend Developer - Complete Skills Tutorial
 ## Master the Skills Required for Senior-Level Python Backend Engineering
 

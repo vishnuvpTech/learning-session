@@ -1,3 +1,8 @@
+## 📂 Python Learning Files
+[**Basics**](BASICS.md) | [Advanced](ADVANCED.md) | [SQL](SQL.md) | [Senior Dev Guide](README.md)
+
+---
+
 # 🐍 Python Basics – Structured Learning & Interview Preparation Guide
 
 > **Level:** Beginner → Advanced Basics  

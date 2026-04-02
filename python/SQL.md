@@ -1,3 +1,8 @@
+## 📂 Python Learning Files
+[Basics](BASICS.md) | [Advanced](ADVANCED.md) | [**SQL**](SQL.md) | [Senior Dev Guide](README.md)
+
+---
+
 # 🐘 SQL & PostgreSQL – Complete Learning & Interview Preparation Guide
 
 > **Level:** Beginner → Expert  
