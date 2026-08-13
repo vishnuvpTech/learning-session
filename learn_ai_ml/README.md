@@ -1,3 +1,5 @@
+> **Author:** [Vishnu VP](https://github.com/vishnuvpTech) · [vishnu.vp@techversantinfotech.com](mailto:vishnu.vp@techversantinfotech.com)
+
 # Python Backend Developer to AI/ML Engineer
 ## Complete Roadmap for Learning Artificial Intelligence and Machine Learning
 

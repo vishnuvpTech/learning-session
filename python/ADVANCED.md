@@ -1,3 +1,5 @@
+> **Author:** [Vishnu VP](https://github.com/vishnuvpTech) · [vishnu.vp@techversantinfotech.com](mailto:vishnu.vp@techversantinfotech.com)
+
 ## 📂 Python Learning Files
 [Basics](BASICS.md) | [**Advanced**](ADVANCED.md) | [SQL](SQL.md) | [Senior Dev Guide](README.md)
 

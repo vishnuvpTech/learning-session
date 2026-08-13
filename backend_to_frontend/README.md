@@ -1,3 +1,5 @@
+> **Author:** [Vishnu VP](https://github.com/vishnuvpTech) · [vishnu.vp@techversantinfotech.com](mailto:vishnu.vp@techversantinfotech.com)
+
 # Full-Stack Development Learning Roadmap
 ## Complete Guide for Backend Teams Transitioning to Full-Stack Development
 
