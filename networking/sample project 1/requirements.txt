@@ -1,0 +1,7 @@
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+sqlalchemy==2.0.52
+netmiko==4.7.0
+nornir==3.6.0
+nornir-netmiko==1.0.1
+pydantic==2.13.5
