@@ -1,4 +1,4 @@
-# Day 2: OSPF + BGP + Firewalls
+# OSPF + BGP + Firewalls
 
 ## 🎯 Objective
 

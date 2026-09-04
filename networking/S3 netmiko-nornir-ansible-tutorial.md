@@ -1,4 +1,4 @@
-# Day 3: Netmiko + Nornir + Ansible
+# Netmiko + Nornir + Ansible
 
 ## 🎯 Objective
 
