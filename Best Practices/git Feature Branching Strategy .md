@@ -254,7 +254,6 @@ git commit -m "fix(api): resolve pagination bug"
 git commit -m "refactor(db): optimize query performance"
 git commit -m "docs(readme): update installation guide"
 ```
-[Read More](Best Practices/git-management.md)
 
 ### Avoid
 
@@ -273,7 +272,7 @@ Example:
 ```bash
 git commit -m "TA-101 Add resource mapping API"
 ```
-
+[Read More]([Best Practices/git-management.md](https://github.com/vishnuvpTech/learning-session/blob/main/Best%20Practices/git-management.md)
 ---
 
 # 10. Step 5 – Local Quality Checks
