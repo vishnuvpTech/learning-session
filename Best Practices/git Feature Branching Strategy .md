@@ -272,7 +272,6 @@ Example:
 ```bash
 git commit -m "TA-101 Add resource mapping API"
 ```
-[Read More]([Best Practices/git-management.md](https://github.com/vishnuvpTech/learning-session/blob/main/Best%20Practices/git-management.md)
 ---
 
 # 10. Step 5 – Local Quality Checks
@@ -1124,3 +1123,5 @@ Following this process consistently will improve:
 - Traceability
 - Deployment reliability
 - Overall development velocity
+
+[Read More]([Best Practices/git-management.md](https://github.com/vishnuvpTech/learning-session/blob/main/Best%20Practices/git-management.md)
