@@ -247,10 +247,14 @@ Commits should be meaningful and related to the task.
 ### Good
 
 ```bash
-git commit -m "Add resource mapping API"
-git commit -m "Add resource mapping validation"
-git commit -m "Add resource mapping tests"
+git commit -m "type(scope): short description"
+
+git commit -m "feat(auth): add JWT authentication"
+git commit -m "fix(api): resolve pagination bug"
+git commit -m "refactor(db): optimize query performance"
+git commit -m "docs(readme): update installation guide"
 ```
+[Read More](Best Practices/git-management.md)
 
 ### Avoid
 
